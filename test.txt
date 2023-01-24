@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello Hemant
-Modified TestFile
-=======
 Hello
->>>>>>> 1d8ffd7a60650ee3727b92cb7ef45ae890b0d1fb
